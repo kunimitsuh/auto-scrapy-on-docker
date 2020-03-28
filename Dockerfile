@@ -1,7 +1,7 @@
 # scrapy doesn't work well on alpine
 FROM python:3.8.2
 
-WORKDIR /celebrity
+WORKDIR /talent
 
 # set environment variables
 ENV PYTHONDONTWRITEBYTECODE=1
