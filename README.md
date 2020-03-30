@@ -1,5 +1,6 @@
-# auto-scrapy-on-docker
+# auto-scrapy-on-docker - sample
 
+crawl sites and get japanese talent names using scrapy
 
 ```bash
 docker-compose up --build
